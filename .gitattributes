@@ -1,0 +1,4 @@
+# Tell GitHub Linguist to count only lib folder as source code
+* linguist-vendored
+
+lib/* linguist-vendored=false
