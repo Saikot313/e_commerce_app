@@ -4,7 +4,6 @@ import 'package:e_commerce_app/views/home/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:firebase_core/firebase_core.dart';
-
 import 'controllers/product_controller.dart';
 import 'controllers/cart_controller.dart';
 import 'controllers/auth_controller.dart';
